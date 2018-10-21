@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 
+public class Squaring {
 	/**
 	 * Iterate through each line of input.
 	 */
